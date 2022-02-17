@@ -9,4 +9,8 @@ main()
     {
         cout << "Buy the dress";
     }
+    else
+    {
+        cout << "Donot buy that dress";
+    }
 }

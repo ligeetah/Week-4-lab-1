@@ -9,4 +9,8 @@ main()
     {
         cout << "Go to university";
     }
+    else
+    {
+        cout << "Don't go to university";
+    }
 }
